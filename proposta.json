@@ -1,0 +1,300 @@
+{
+  "slug": "nuface",
+  "negocio": {
+    "nome": "NuFace Uberlândia",
+    "logo": "brand/logo-escuro.png",
+    "whatsapp": "5534997190199",
+    "telefone": "(34) 3223-3636",
+    "unidades": [
+      {
+        "bairro": "Centro · Uberlândia/MG",
+        "endereco": "Av. Nicomedes Alves dos Santos, 199",
+        "telefone": "(34) 99719-0199",
+        "horario": "Atendimento com hora marcada"
+      }
+    ]
+  },
+  "marca": {
+    "brand": "#083741",
+    "brand2": "#052a31",
+    "ink": "#14262a",
+    "bg": "#f5efe0",
+    "radius": "20px",
+    "registro": "editorial",
+    "fontDisplay": "Roboto",
+    "fontBody": "Inter",
+    "tomHero": "escuro",
+    "tomCorpo": "claro",
+    "pulse": "#fab68b"
+  },
+  "motivo": "camadas",
+  "secoes": [
+    {
+      "id": "header",
+      "variant": "sticky-cta",
+      "data": {
+        "links": [
+          {
+            "texto": "Tratamentos",
+            "href": "#tratamentos"
+          },
+          {
+            "texto": "Tecnologias",
+            "href": "#tecnologias"
+          },
+          {
+            "texto": "Avaliações",
+            "href": "#depoimentos"
+          },
+          {
+            "texto": "Onde estamos",
+            "href": "#unidades"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hero",
+      "variant": "split-motivo",
+      "data": {
+        "eyebrow": "Estética facial e corporal · Centro de Uberlândia",
+        "h1": "Seus traços, mais descansados",
+        "lead": "Harmonização facial, toxina botulínica, preenchimentos, Ultraformer e laser Lavieen. Antes de qualquer indicação vem uma avaliação, e a primeira não tem custo.",
+        "cta": "Agendar pelo WhatsApp",
+        "ctaSecundario": "Ver tratamentos",
+        "ctaSecundarioHref": "#tratamentos",
+        "arte": "grao"
+      }
+    },
+    {
+      "id": "fita",
+      "data": {
+        "itens": [
+          "Harmonização facial",
+          "Toxina botulínica",
+          "Bioestimulador de colágeno",
+          "Preenchimento labial",
+          "Rinomodelação",
+          "Ultraformer",
+          "Laser Lavieen",
+          "Peeling",
+          "Massagens"
+        ]
+      }
+    },
+    {
+      "id": "numeros",
+      "variant": "gigante",
+      "data": {
+        "titulo": "Antes de agendar, os números",
+        "itens": [
+          {
+            "valor": "5,0",
+            "rotulo": "Nota no Google, em 24 avaliações de clientes"
+          },
+          {
+            "valor": "15",
+            "rotulo": "Tratamentos para rosto, pele e corpo",
+            "contar": 15
+          },
+          {
+            "valor": "20%",
+            "rotulo": "De desconto em outro procedimento, válido por um ano"
+          }
+        ]
+      }
+    },
+    {
+      "id": "manifesto",
+      "variant": "faixa",
+      "data": {
+        "eyebrow": "Como a gente trabalha",
+        "citacao": "Primeiro a gente olha o rosto inteiro, inclusive o que já está bom e deve ficar como está. Só depois vem a indicação.",
+        "autor": "NuFace Uberlândia",
+        "texto": [
+          "Harmonização não é um procedimento só: é a combinação certa de poucos, na ordem certa. Por isso a conversa vem antes da agulha, e você sai da avaliação sabendo o que cada etapa faz e o que esperar dela.",
+          "Quem já passou por aqui costuma comentar as mesmas coisas: a explicação clara, o cuidado com a segurança e o atendimento atento desde a recepção."
+        ]
+      }
+    },
+    {
+      "id": "tratamentos",
+      "variant": "pilha",
+      "data": {
+        "titulo": "Tratamentos",
+        "lead": "Procedimentos não cirúrgicos para o rosto, a pele e o corpo. Na avaliação, a indicação parte do seu objetivo, não da lista.",
+        "itens": [
+          {
+            "nome": "Harmonização facial",
+            "descricao": "Um plano que combina procedimentos para equilibrar os traços e tratar os sinais do tempo, pensado a partir da proporção do rosto inteiro."
+          },
+          {
+            "nome": "Toxina botulínica",
+            "descricao": "Suaviza linhas de testa, pés de galinha, buço e queixo. Também corrige sorriso gengival e trata o pescoço com o efeito Nefertiti."
+          },
+          {
+            "nome": "Bioestimulador de colágeno",
+            "descricao": "Estimula a pele a produzir o próprio colágeno, devolvendo firmeza e sustentação. O resultado aparece aos poucos, ao longo dos meses."
+          },
+          {
+            "nome": "Preenchimento de lábios e olheiras",
+            "descricao": "Nos lábios, volume, contorno e definição na medida do seu rosto. Nas olheiras, suaviza a área afundada que deixa o olhar cansado."
+          },
+          {
+            "nome": "Rinomodelação",
+            "descricao": "Ajusta o contorno do nariz sem cirurgia, com recuperação curta. Indicada para pequenas correções de perfil."
+          },
+          {
+            "nome": "Lipo de papada",
+            "descricao": "Reduz a gordura abaixo do queixo sem cortes e devolve definição à linha da mandíbula."
+          },
+          {
+            "nome": "Cuidados com a pele",
+            "descricao": "Peeling para manchas, melasma, poros e marcas de acne. Microagulhamento para textura e viço. Limpeza de pele e máscara facial com aromaterapia."
+          },
+          {
+            "nome": "Corpo",
+            "descricao": "Perfect Glúteos para contorno, flacidez e celulite. Massagens linfática, modeladora, drenomodeladora e relaxante."
+          }
+        ]
+      }
+    },
+    {
+      "id": "tecnologias",
+      "variant": "grade",
+      "data": {
+        "titulo": "As tecnologias da clínica",
+        "itens": [
+          {
+            "nome": "Ultraformer",
+            "detalhe": "Ultrassom microfocado para lifting e firmeza, sem cortes"
+          },
+          {
+            "nome": "Laser Lavieen",
+            "detalhe": "Melhora textura, manchas e luminosidade da pele"
+          },
+          {
+            "nome": "Microagulhamento",
+            "detalhe": "Com vitamina C, vitamina E e ácido hialurônico"
+          }
+        ]
+      }
+    },
+    {
+      "id": "passos",
+      "variant": "timeline",
+      "data": {
+        "titulo": "Como funciona",
+        "lead": "Do primeiro contato ao procedimento, sem surpresa no caminho.",
+        "itens": [
+          {
+            "titulo": "Mensagem no WhatsApp",
+            "texto": "Você conta o que gostaria de tratar e escolhe um horário para a avaliação."
+          },
+          {
+            "titulo": "Avaliação sem custo",
+            "texto": "Uma conversa sobre o seu objetivo e uma leitura do rosto. Você sai sabendo o que faz sentido fazer, e o que não faz."
+          },
+          {
+            "titulo": "Procedimento",
+            "texto": "No dia combinado, com cada etapa explicada antes de começar."
+          },
+          {
+            "titulo": "O ano seguinte",
+            "texto": "Depois do primeiro procedimento, você tem 20% de desconto em qualquer outro durante um ano."
+          }
+        ]
+      }
+    },
+    {
+      "id": "depoimentos",
+      "variant": "citacoes",
+      "data": {
+        "titulo": "Quem já passou por aqui",
+        "itens": [
+          {
+            "texto": "Fiquei impressionado com o padrão de qualidade e a preocupação com a segurança e satisfação dos clientes.",
+            "autor": "Vandré A.",
+            "contexto": "Avaliação no Google"
+          },
+          {
+            "texto": "Muita clareza na explicação dos procedimentos e resultados melhor do que o esperado!",
+            "autor": "Bruna L.",
+            "contexto": "Avaliação no Google"
+          },
+          {
+            "texto": "Excelente atendimento desde a recepção até o tratamento. A biomédica Rafaela é super competente!",
+            "autor": "Lorainne N.",
+            "contexto": "Avaliação no Google"
+          }
+        ]
+      }
+    },
+    {
+      "id": "faq",
+      "variant": "acordeao",
+      "data": {
+        "titulo": "Perguntas frequentes",
+        "itens": [
+          {
+            "p": "A avaliação tem custo?",
+            "r": "Não. A primeira avaliação é sem custo e sem compromisso de fazer o procedimento no mesmo dia."
+          },
+          {
+            "p": "Vou ficar com o rosto artificial?",
+            "r": "É o que a avaliação existe para evitar. Dose e ponto de aplicação são escolhidos para preservar a sua expressão: a ideia é o seu rosto descansado, não um rosto diferente."
+          },
+          {
+            "p": "Dói?",
+            "r": "Na maior parte dos procedimentos o desconforto é leve e passageiro, e há recursos para reduzi-lo. Varia de pessoa para pessoa e de região para região."
+          },
+          {
+            "p": "Preciso me afastar das atividades depois?",
+            "r": "Em geral, não. Pode haver inchaço ou pequenos hematomas nos primeiros dias, o que é esperado e temporário. Os cuidados de cada procedimento são passados antes."
+          },
+          {
+            "p": "Como funciona o desconto de 20%?",
+            "r": "Depois de fazer um procedimento na clínica, você tem 20% de desconto em qualquer outro durante um ano."
+          }
+        ]
+      }
+    },
+    {
+      "id": "unidades",
+      "variant": "unica",
+      "data": {
+        "titulo": "Onde estamos"
+      }
+    },
+    {
+      "id": "cta-final",
+      "variant": "bloco-cheio",
+      "data": {
+        "h2": "Comece pela avaliação",
+        "lead": "A primeira conversa é sem custo: você conta o que te incomoda e sai sabendo quais caminhos fazem sentido para o seu rosto.",
+        "cta": "Agendar pelo WhatsApp"
+      }
+    },
+    {
+      "id": "footer",
+      "variant": "completo",
+      "data": {
+        "links": [
+          {
+            "texto": "Instagram",
+            "href": "https://www.instagram.com/nuface.oficial/"
+          },
+          {
+            "texto": "Facebook",
+            "href": "https://www.facebook.com/nuface.uberlandia"
+          },
+          {
+            "texto": "WhatsApp",
+            "href": "https://wa.me/5534997190199"
+          }
+        ],
+        "aviso": "Resultados variam de pessoa para pessoa e dependem de avaliação individual. O conteúdo desta página é informativo e não substitui consulta."
+      }
+    }
+  ]
+}
